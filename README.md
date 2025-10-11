@@ -26,10 +26,6 @@ To run:
 Try it out at:
 https://bryanlzl-currency-swap.vercel.app/
 
-## Motivations
-
-This project was completed as part of the Switcheo Labs Code Challenge
-
 ## Attributions
 
 - Token assets from https://github.com/Switcheo/token-icons/tree/main/tokens
