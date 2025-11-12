@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { TextField, InputLabel, Button } from "@mui/material";
 import useStyles from "../styles/swapFieldStyles";
 import { ArrowDropDown, ExpandMore } from "@mui/icons-material";
