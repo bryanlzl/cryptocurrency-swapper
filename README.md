@@ -24,7 +24,7 @@ To run:
 
 ## Live Deployment
 Try it out at:
-https://bryanlzl-currency-swap.vercel.app/
+https://crypto-swap-currency.vercel.app/
 
 ## Attributions
 
